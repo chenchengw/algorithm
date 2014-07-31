@@ -1,4 +1,4 @@
 algorithm
 =========
 
-algorithm source code
+Cheer up and happy coding!
